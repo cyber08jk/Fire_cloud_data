@@ -131,6 +131,26 @@ firebird-frontend/
 │   └── App.jsx
 └── package.json
 ```
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard](screenshots/1%20(1).jpeg)
+
+### Upload Page
+![Upload](screenshots/1%20(2).jpeg)
+
+### Folder Management
+![Folders](screenshots/1%20(3).jpeg)
+
+### File List
+![File List](screenshots/1%20(4).jpeg)
+
+### Download Section
+![Download](screenshots/1%20(5).jpeg)
+
+### Profile/Settings
+![Profile](screenshots/1%20(6).jpeg)
+
 
 ## 🛠️ Tech Stack
 
