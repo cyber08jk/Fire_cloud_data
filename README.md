@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔥 FireBird - Cloud File Storage System
 
 A modern, full-stack cloud storage application inspired by Google Drive, built with **Spring Boot** and **React**. FireBird provides secure file storage, folder management, password-protected folders, file sharing, and a beautiful dark mode interface.
@@ -412,3 +413,7 @@ If you have any questions or need help, please:
 ⭐ **Star this repository if you find it helpful!**
 
 Made with ❤️ using Java Spring Boot and React
+=======
+# Fire_cloud_data
+An online cloud storage system built using Java that allows users to securely upload, store, manage, and download files from anywhere. It supports user authentication, scalable file handling, and a responsive web dashboard, making data access fast, reliable, and secure.
+>>>>>>> 737c029058620fce4a4423950a148bf1e8306281
