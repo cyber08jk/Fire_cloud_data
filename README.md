@@ -378,22 +378,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+**@J**
+- GitHub: https://github.com/cyber08jk
 
 ## 🙏 Acknowledgments
 
 - Inspired by Google Drive's clean interface
 - Built with modern Java and React best practices
 - Thanks to the open-source community
-
-## 📞 Support
-
-If you have any questions or need help, please:
-- Open an issue on GitHub
-- Email: your.email@example.com
-- Join our Discord community
 
 ## 🗺️ Roadmap
 
